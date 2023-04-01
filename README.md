@@ -232,3 +232,5 @@ Song.find_by_name("Hello")
 ```
 
 Success!
+
+https://github.com/G3o-R/phase-3-orms-mapping-database-records-to-ruby-objects
